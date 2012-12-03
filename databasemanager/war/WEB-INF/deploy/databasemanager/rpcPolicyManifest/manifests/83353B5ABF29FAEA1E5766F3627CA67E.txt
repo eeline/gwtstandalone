@@ -1,0 +1,2 @@
+serviceClass: com.db.client.GreetingService
+path: 7468DF8370D966A587D20D570F30E5E4.gwt.rpc
